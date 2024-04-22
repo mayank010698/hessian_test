@@ -1,1 +1,4 @@
 2024*
+__pycache__/
+*/__pycache__/*
+myjob.sh
